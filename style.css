@@ -1,0 +1,40 @@
+/* .bgimag{
+    background-image: url(./food_street.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+} */
+.fa-square-facebook
+ {
+    margin: 4px;
+    font-size: 18px;
+}
+.fa-instagram{
+    margin: 4px;
+    font-size: 18px;
+}
+.bg_img {
+    background-image: url(./new_pictures/first-bg-1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    height: 700px;
+
+}
+
+.bg_img_2 {
+    background-image: url(./new_pictures/rest-bg-1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    height: 600px;
+}
+
+.form_bg {
+    background-image: url(./new_pictures/form_bg1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    height: 700px;
+}
